@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    
+    
+}
+.wraper{
+margin-left: 300px;
+margin-top: 10%;
+border: 0;
+width: 450px;
+background-color: blue;
+height: 300px;
+color: white;
+}
+.wraper h1{
+    text-align: center;
+}
+.wraper .input-type{
+width: 100%;
+height: 8vh;
+background: yellowj;
+}
